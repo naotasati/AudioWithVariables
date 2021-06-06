@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicPhrases</string>
+    <string name="f1">Do you speak...</string>
+    <string name="f2">Good Evening</string>
+    <string name="f3">Hello</string>
+    <string name="f4">How are you?</string>
+    <string name="f5">My name is...</string>
+    <string name="f6">Please</string>
+    <string name="gura">GURA!!!</string>
+    <string name="rrat">RRAT!!!</string>
+</resources>
